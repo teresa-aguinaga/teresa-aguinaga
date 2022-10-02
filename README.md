@@ -8,7 +8,7 @@
 
 ##    
 
-[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw' height='25'>](https://www.linkedin.com/in/teresa-aguinaga) 
+[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw' height='25' target="_blank">](https://www.linkedin.com/in/teresa-aguinaga) 
 
 <!---
 teresa-aguinaga/teresa-aguinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
