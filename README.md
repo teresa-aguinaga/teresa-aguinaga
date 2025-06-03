@@ -1,4 +1,4 @@
-# Hi! I’m @teresa-aguinaga <img src="https://c.tenor.com/4sR1fHWU7FcAAAAC/saludo-mano.gif" width="66">
+# Hi! <img src="https://c.tenor.com/4sR1fHWU7FcAAAAC/saludo-mano.gif" width="66">
 
 ### About me
 
