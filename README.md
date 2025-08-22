@@ -1,6 +1,4 @@
-# Hi! <img src="https://c.tenor.com/4sR1fHWU7FcAAAAC/saludo-mano.gif" width="66">
-
-## About me
+# Hi!
 
 ### I'm a Computer Systems Engineer
 <img src="https://i.pinimg.com/originals/93/4f/9c/934f9c30ac3930e2befa06384e308888.png" width="66">
