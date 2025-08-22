@@ -2,7 +2,8 @@
 
 ### About me
 
-- I'm a computer systems engineer. <img src="https://i.pinimg.com/originals/93/4f/9c/934f9c30ac3930e2befa06384e308888.png" width="66">
+- I'm a Computer Systems Engineer.
+- <img src="https://i.pinimg.com/originals/93/4f/9c/934f9c30ac3930e2befa06384e308888.png" width="66">
 
 <!---
 teresa-aguinaga/teresa-aguinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
